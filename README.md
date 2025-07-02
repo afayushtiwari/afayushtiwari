@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @afayushtiwari
 - 👀 I’m interested in coding and web development.
-- 🌱 I’m currently learning different programming languages and begginner in dsa.
+- 🌱 I’m currently learning different programming languages and beginner in dsa.
