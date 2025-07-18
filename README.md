@@ -30,7 +30,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayushtiwari123/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayushtiwari21/)
 - 🐱 [GitHub](https://github.com/afayushtiwari)  
 - ✉️ Email: `afayushtiwari2103@gmail.com`
 
