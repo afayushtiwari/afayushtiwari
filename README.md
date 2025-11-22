@@ -35,15 +35,15 @@
 <div align="center">
 
 ![Ayush’s Streak](https://github-readme-streak-stats.herokuapp.com/?user=afayushtiwari&theme=tokyonight&hide_border=true)  
-:contentReference[oaicite:0]{index=0}  
+
 
 <br>
 
 ![Ayush’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=afayushtiwari&show_icons=true&theme=tokyonight&hide_border=true)  
-:contentReference[oaicite:1]{index=1}  
+
 &nbsp;&nbsp;  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afayushtiwari&layout=compact&theme=tokyonight&hide_border=true)  
-:contentReference[oaicite:2]{index=2}  
+
 
 </div>
 
