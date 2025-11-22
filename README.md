@@ -17,8 +17,16 @@
 
 ## 🌐 Connect with Me
 
-[<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>](https://www.linkedin.com/in/ayushtiwari21/)  
-[<img src="https://skillicons.dev/icons?i=github" width="35"/>](https://github.com/afayushtiwari)
+<p>
+  <a href="https://www.linkedin.com/in/ayushtiwari21/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/afayushtiwari">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+</p>
+
 
 ---
 
