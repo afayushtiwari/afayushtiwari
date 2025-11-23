@@ -38,24 +38,30 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics (Live)
 
 <div align="center">
 
-![Ayush’s Streak](https://github-readme-streak-stats.herokuapp.com/?user=afayushtiwari&theme=tokyonight&hide_border=true)  
-
+<!-- 🔥 Streak (Daily Contribution Streak) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afayushtiwari&theme=tokyonight&hide_border=true)
 
 <br>
 
-![Ayush’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=afayushtiwari&show_icons=true&theme=tokyonight&hide_border=true)  
+<!-- 📈 Overall GitHub Stats -->
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afayushtiwari&show_icons=true&theme=tokyonight&hide_border=true)
 
-&nbsp;&nbsp;  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afayushtiwari&layout=compact&theme=tokyonight&hide_border=true)  
+<br>
 
+<!-- 🧠 Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afayushtiwari&layout=compact&theme=tokyonight&hide_border=true)
+
+<br>
+
+<!-- 🔵 Contribution Graph (Past + Current Activity Visible) -->
+![Ayush's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=afayushtiwari&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=1abc9c&area=true&hide_border=true)
 
 </div>
 
----
 
 ## ✨ Fun Fact
 
