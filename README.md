@@ -42,10 +42,7 @@
 
 <div align="center">
 
-<!-- 🔥 Streak (Daily Contribution Streak) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afayushtiwari&theme=tokyonight&hide_border=true)
 
-<br>
 
 <!-- 📈 Overall GitHub Stats -->
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afayushtiwari&show_icons=true&theme=tokyonight&hide_border=true)
