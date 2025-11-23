@@ -57,8 +57,7 @@
 
 <br>
 
-<!-- 🔵 Contribution Graph (Past + Current Activity Visible) -->
-![Ayush's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=afayushtiwari&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=1abc9c&area=true&hide_border=true)
+
 
 </div>
 
