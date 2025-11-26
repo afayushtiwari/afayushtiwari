@@ -38,11 +38,7 @@
 
 ---
 
-## 📊 GitHub Statistics (Live)
 
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=afayushtiwari&theme=tokyonight&hide_border=true)
 
 
 
