@@ -46,15 +46,6 @@
 
 
 
-## 📈 Quick Profile Summary
-
-- ⭐ **Stars:** 2  
-- 🔥 **Commits:** 65  
-- 🔀 **Pull Requests:** 1  
-- 🐞 **Issues:** 0  
-
----
-
 ## ✨ Fun Fact
 
 I love solving DSA problems and building cool MERN projects —  
