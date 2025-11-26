@@ -40,18 +40,7 @@
 
 ## 📊 GitHub Statistics (Live)
 
-### 🧠 Most Used Languages (Accurate)
-- **CSS — 36%**
-- **JavaScript — 27%**
-- **HTML — 18%**
-- **TypeScript — 17%**
-- **Python — 2%**
 
----
-
-## 📈 GitHub Stats
-
-![Ayush's GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=afayushtiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=afayushtiwari&theme=tokyonight&hide_border=true)
 
