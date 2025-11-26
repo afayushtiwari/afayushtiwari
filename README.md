@@ -40,24 +40,23 @@
 
 ## 📊 GitHub Statistics (Live)
 
-<div align="center">
-
-### 🧠 **Most Used Languages (Accurate)**  
-**CSS — 36%**  
-**JavaScript — 27%**  
-**HTML — 18%**  
-**TypeScript — 17%**  
-**Python — 2%**
+### 🧠 Most Used Languages (Accurate)
+- **CSS — 36%**
+- **JavaScript — 27%**
+- **HTML — 18%**
+- **TypeScript — 17%**
+- **Python — 2%**
 
 ---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=afayushtiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://streak-stats.demolab.com?user=afayushtiwari&theme=tokyonight&hide_border=true" />
-
-</div>
+### 📈 GitHub Stats  
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afayushtiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=afayushtiwari&theme=tokyonight&hide_border=true)
+
 
 ## 📈 Quick Profile Summary
 
