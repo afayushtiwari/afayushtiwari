@@ -49,13 +49,12 @@
 
 ---
 
-### 📈 GitHub Stats  
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afayushtiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+## 📈 GitHub Stats
 
----
+![Ayush's GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=afayushtiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-### 🔥 Streak Stats  
 ![GitHub Streak](https://streak-stats.demolab.com?user=afayushtiwari&theme=tokyonight&hide_border=true)
+
 
 
 ## 📈 Quick Profile Summary
