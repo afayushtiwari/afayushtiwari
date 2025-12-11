@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+DSA+%7C+AI+Enthusiast;Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=SDE+ASPIRANT;MERN+Stack+%7C+DSA+%7C+AI+Enthusiast;Always+Learning+%7C+Always+Building" />
 </div>
 
 ---
@@ -41,13 +41,6 @@
 
   <!-- GitHub Stats (Working Mirror) -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=afayushtiwari&show_icons=true&theme=radical&hide_border=true" height="170"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afayushtiwari&layout=compact&theme=radical&hide_border=true" height="170"/>
-
-  <!-- Streak Stats (Official Working URL) -->
-  <img src="https://streak-stats.demolab.com/?user=afayushtiwari&theme=radical&hide_border=true" height="170"/>
-
 </div>
 
 ---
