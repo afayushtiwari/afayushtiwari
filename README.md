@@ -45,12 +45,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afayushtiwari&theme=radical&no-frame=true&row=1&column=7" />
-</div>
 
----
 
 ## 📈 Activity Graph  
 <div align="center">
