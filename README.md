@@ -38,9 +38,16 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afayushtiwari&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afayushtiwari&layout=compact&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afayushtiwari&theme=radical&hide_border=true" height="170"/>
+
+  <!-- GitHub Stats (Working Mirror) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=afayushtiwari&show_icons=true&theme=radical&hide_border=true" height="170"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afayushtiwari&layout=compact&theme=radical&hide_border=true" height="170"/>
+
+  <!-- Streak Stats (Official Working URL) -->
+  <img src="https://streak-stats.demolab.com/?user=afayushtiwari&theme=radical&hide_border=true" height="170"/>
+
 </div>
 
 ---
@@ -54,7 +61,7 @@
 
 ## 📈 Activity Graph  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afayushtiwari&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afayushtiwari&theme=react-dark&hide_border=true" />
 </div>
 
 ---
