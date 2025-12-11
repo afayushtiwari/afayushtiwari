@@ -1,47 +1,74 @@
-👋 Hello, I'm Ayush Tiwari
-SDE Aspirant • MERN Stack Developer • DSA Enthusiast
-Show Image
+# 👋 Hello, I'm Ayush Tiwari  
+### SDE Aspirant • MERN Stack Developer • DSA Enthusiast  
 
-🧑‍💻 About Me
+---
 
-🎓 B.Tech CSE student at BPIT, Delhi — Batch 2027
-💻 MERN Stack Developer building scalable and modern web apps
-🧠 Strong in Data Structures & Algorithms (C++)
-🤖 Exploring AI-powered products and real-world problem solving
-🚀 Hackathon participant & open-source contributor
-🔥 Passionate about development, tech, and continuous learning
-
-
-🌐 Connect with Me
-<a href="https://www.linkedin.com/in/ayushtiwari21/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-<a href="https://github.com/afayushtiwari"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-
-🛠️ Languages & Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,cpp,java,python,git,github,bootstrap,tailwind,vscode,postman&perline=12" alt="Skills"/>
-
-📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=afayushtiwari&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afayushtiwari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afayushtiwari&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+DSA+%7C+AI+Enthusiast;Always+Learning+%7C+Always+Building" />
 </div>
 
-🏆 GitHub Trophies
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 **B.Tech CSE student at BPIT, Delhi — Batch 2027**  
+- 💻 **MERN Stack Developer** building scalable and modern web apps  
+- 🧠 Strong in **Data Structures & Algorithms (C++)**  
+- 🤖 Exploring **AI-powered product development**  
+- 🚀 Regular **hackathon participant** & open-source contributor  
+- 🔥 Passionate about **problem solving, development, and consistent learning**
+
+---
+
+## 🌐 Connect with Me  
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=afayushtiwari&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+  <a href="https://www.linkedin.com/in/ayushtiwari21/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/afayushtiwari"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 </div>
 
-📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=afayushtiwari&theme=react-dark&hide_border=true" alt="Activity Graph" />
+---
 
-✨ Fun Fact
-I love solving DSA problems and building cool MERN projects — and yes, good food improves my debugging skills 😄
+## 🛠️ Languages & Tools  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,cpp,java,python,git,github,bootstrap,tailwind,vscode,postman&perline=12" />
+</div>
 
-🎯 Quote
+---
 
-"Striving to become a better developer every day through code, curiosity, and consistency."
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afayushtiwari&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afayushtiwari&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afayushtiwari&theme=radical&hide_border=true" height="170"/>
+</div>
 
+---
+
+## 🏆 GitHub Trophies  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=afayushtiwari&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 📈 Activity Graph  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afayushtiwari&theme=react-dark&hide_border=true"/>
+</div>
+
+---
+
+## ✨ Fun Fact  
+I love solving DSA problems and building cool MERN projects — and yes, good food improves my debugging skills.
+
+---
+
+## 🎯 Quote  
+“Striving to become a better developer every day through code, curiosity, and consistency.”
+
+---
 
 <div align="center">
-💡 Show some ❤️ by starring some of my repositories!
+  💡 If you like my work, consider **starring** some of my repositories!
 </div>
