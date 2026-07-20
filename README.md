@@ -19,7 +19,7 @@
 
 - 🎓 B.Tech CSE @ **BPIT, Delhi** — Batch 2027 — CGPA **9.42**
 - 💻 Building full-stack **MERN + AI** products with real, active users
-- 🧠 **600+ DSA problems** solved · CodeChef rating **~1522**
+- 🧠 **600+ DSA problems** solved · CodeChef rating **~1554**
 - 🏆 1st place, **InnoQuest Ideathon** (IIIT Delhi) · Winner, **AI Tech Quiz** (ACM Tech Fest, SSCBS)
 - 🌱 Open-source contributor — **GSSoC 2025** (Jest testing, CI pipelines)
 - 🎯 Currently interviewing for SDE internships & full-time roles
