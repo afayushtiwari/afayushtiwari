@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
-<h3 align="center">SDE Aspirant | MERN Stack Developer | DSA Enthusiast</h3>
+<h3 align="center">SDE Aspirant · MERN & AI Full-Stack Developer · DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+full-stack+AI+products;600%2B+DSA+problems+solved;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+full-stack+AI+products;Shipping+agentic+RAG+chatbots;600%2B+DSA+problems+solved;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushtiwari21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayushtiwari21/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/afayushtiwari">
+    <img src="https://img.shields.io/github/followers/afayushtiwari?label=Followers&style=for-the-badge&color=2F80ED&labelColor=181717" />
+  </a>
 </p>
 
 <p align="center">
@@ -17,12 +22,21 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE @ **BPIT, Delhi** — Batch 2027 — CGPA **9.42**
-- 💻 Building full-stack **MERN + AI** products with real, active users
+- 🎓 B.Tech CSE @ **BPIT, Delhi (GGSIPU)** — Batch 2027 — CGPA **9.42**
+- 💻 Building full-stack **MERN + AI** products, including an agentic RAG chatbot with a live deployed app
 - 🧠 **600+ DSA problems** solved · CodeChef rating **~1554**
-- 🏆 1st place, **InnoQuest Ideathon** (IIIT Delhi) · Winner, **AI Tech Quiz** (ACM Tech Fest, SSCBS)
-- 🌱 Open-source contributor — **GSSoC 2025** 
+- 🏆 1st place, **InnoQuest Ideathon** (IIIT Delhi) · Winner, **AI Tech Quiz** (ACM Tech Fest, SSCBS) · 1st position, **Tech Blackout Competition** (SSCBS) · Top 10 teams, **CODENHEIMER Season 2** (BPIT)
+- 🌱 Open-source contributor — **GirlScript Summer of Code (GSSoC) 2025**
 - 🎯 Currently interviewing for SDE internships & full-time roles
+
+---
+
+### 💼 Experience
+
+| Role | Organization | Duration | Stack |
+|---|---|---|---|
+| Web Development Intern | **Cantilever.in** | Jan – Mar 2026 | Express.js, MongoDB, Firebase, React.js, Node.js |
+| MERN Summer Training Program | **Brain Mentors Pvt. Ltd.** | Jun – Jul 2025 | MongoDB, Express.js, React.js, Node.js |
 
 ---
 
@@ -40,15 +54,26 @@
 **Frameworks & Libraries**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+**AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
 </p>
 
 **Databases & Cloud**
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
@@ -61,7 +86,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
 </p>
 
 ---
@@ -70,7 +94,16 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%" valign="top">
+      <h4>🛒 <a href="https://github.com/afayushtiwari/blinkit-rag-chatbot">QuickCart</a></h4>
+      A Blinkit-style grocery app with an <b>agentic RAG chatbot</b> — grounds every answer in the real catalog (ChromaDB + Gemini) and takes real actions (cart, checkout, delivery slots) via tool-calling. <b>91.7% Accuracy@1</b> on retrieval. Live on Render.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
       <h4>📚 <a href="https://github.com/afayushtiwari/ExamNotesAI">ExamNotesAI</a></h4>
       AI-powered study assistant with <b>200+ active users</b>. Gemini API integration, Firebase Auth, Stripe-based credit system, JWT httpOnly cookies, MongoDB Atlas. Deployed on Render.
       <br/><br/>
@@ -78,7 +111,7 @@
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
     </td>
-    <td width="50%">
+    <td width="33%" valign="top">
       <h4>🌐 <a href="https://github.com/afayushtiwari/GenWeb-AI">GenWeb AI</a></h4>
       Full-stack MERN app that generates websites using the OpenAI API, with Stripe-integrated payments and a React/Node/MongoDB stack. Deployed on Render.
       <br/><br/>
